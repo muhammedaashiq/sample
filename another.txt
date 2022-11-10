@@ -2,4 +2,9 @@ Some file here
 
 some changes in here too
 
+<<<<<<< HEAD
 gomu gomu no pistol
+=======
+
+BANKAIIIIII
+>>>>>>> feature
